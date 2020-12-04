@@ -1,0 +1,1 @@
+# apple-m1-compatibility-list
